@@ -132,6 +132,22 @@ Feel free to connect or check out my projects!
 
 ---
 
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/ayseloub/ayseloub/output/github-contribution-grid-snake.svg)
+
+<!-- Dark Mode Version -->
+![Snake animation](https://raw.githubusercontent.com/ayseloub/ayseloub/output/github-contribution-grid-snake-dark.svg)
+
+<!-- Optional: Colored Version -->
+<!-- ![Snake animation](https://raw.githubusercontent.com/ayseloub/ayseloub/output/ocean.gif) -->
+
+</div>
+
+---
+
 ### ✍️ Random Dev Quote
 <div align="center">
   
