@@ -32,6 +32,7 @@ Feel free to connect or check out my projects!
 
 ---
 
+<div align="center">
 # 💻 Tech Stack:
 
 ### Languages
@@ -107,6 +108,8 @@ Feel free to connect or check out my projects!
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
 
 ---
 
