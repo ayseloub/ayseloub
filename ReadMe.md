@@ -134,7 +134,7 @@ Feel free to connect or check out my projects!
 
 ## 🐍 Contribution Snake Animation
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/ayseloub/ayseloub/blob/output/github-snake-dark.svg)
 
 ---
 
