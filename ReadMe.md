@@ -132,9 +132,11 @@ Feel free to connect or check out my projects!
 
 ---
 
-## 🐍 Contribution Snake Animation
-
+<div align="center">
+  
 ![snake gif](https://github.com/ayseloub/ayseloub/blob/output/github-snake-dark.svg)
+
+</div>
 
 ---
 
