@@ -155,8 +155,6 @@ Feel free to connect or check out my projects!
 
 </div>
 
----
-
 <div align="center">
   
 **💡 "Code is like humor. When you have to explain it, it's bad."**
